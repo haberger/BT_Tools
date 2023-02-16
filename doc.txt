@@ -1,0 +1,7 @@
+How to generate the used data:
+
+Make new cad-model
+Make new annotation
+split scene 14.
+->delete flask from poses.yaml
+Replace Mesh with new model in objects/canister

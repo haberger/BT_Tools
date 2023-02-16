@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
-img = cv2.imread("/home/david/UNI/BachelorThesis/scenes/003/depth/000015.png", cv2.IMREAD_UNCHANGED)
+img = cv2.imread("/home/dalina/David/Uni/BachelorThesis/D435 dataset old/scenes/002/gt/000001.png", cv2.IMREAD_UNCHANGED)
 print(img)
 
 
