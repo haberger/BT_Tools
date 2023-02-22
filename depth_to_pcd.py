@@ -201,7 +201,7 @@ if __name__ == '__main__':
 
     #print(scene_dirs)
 
-    scene_dirs = ['/home/dalina/David/Uni/BachelorThesis/D435 dataset old/scenes/014_both_objects']
+    scene_dirs = ['/home/dalina/David/Uni/BachelorThesis/D435 dataset old/scenes/001_both_objects']
     
     for scene_dir in scene_dirs:
         depth_dir = os.path.join(scene_dir, 'gt_backround/*.png')
